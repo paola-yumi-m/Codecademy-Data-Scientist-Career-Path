@@ -11,7 +11,7 @@ The functions I wrote use conditionals, lists, dictionaries and string manipulat
 
 In this challenge I used loops and string manipulation to decode and encode messages.
 
-## [Abruptly Goblin Planners Challenge]()
+## [Abruptly Goblin Planners Challenge](https://github.com/paola-yumi-m/codecademy_projects/blob/main/abruplty_goblins_planner.ipynb)
 
 In this challenge, I plan what would be the best day to play a game and who would be able to attend the event.
 The functions use dictionaries, loops and lists to achieve the goals.
