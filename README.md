@@ -7,6 +7,6 @@ This repository contains all the challenges projects I've been making in my Data
 In this project I organized and manipulated data about Category 5 Hurricanes.
 The functions I wrote use conditionals, lists, dictionaries and string manipulation concepts.
 
-## [Coded Corresponce Challenge]()
+## [Coded Correspondence Challenge](https://github.com/paola-yumi-m/codecademy_projects/blob/main/coded_correspondence.ipynb)
 
 In this challenge I used loops and string manipulation to decode and encode messages.
