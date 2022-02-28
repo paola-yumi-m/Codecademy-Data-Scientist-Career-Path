@@ -20,7 +20,7 @@ The functions use dictionaries, loops and lists to achieve the goals.
 
 In this project, the available dataset from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance) of US Medical Insurance Costs was analysed. The project aims to answer the following questions:
 
-  - What is the average of age people that get insurance?
+  - What is the average age of people that get insurance?
   - Where is the majority from?
   - Do women pay more than men?
   - Does having more children affect the cost?
