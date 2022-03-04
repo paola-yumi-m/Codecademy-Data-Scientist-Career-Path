@@ -30,3 +30,8 @@ In this project, the available dataset from [Kaggle](https://www.kaggle.com/miri
  
 The focus was to use only the concepts that were learned during the Python Fundamentals Course, so pandas was not used this time. 
 The matplotlib library was used to plot some graphs.
+
+## [Jeopardy! Data Manipulation Challenge Project](https://github.com/paola-yumi-m/codecademy_projects/blob/main/jeopardy/jeopardy.ipynb)
+
+In this challenge, I analysed a dataset containing data about Jeopardy! questions and answers. 
+The functions created aim to manipulate the data using pandas, in order to find interesting results.
