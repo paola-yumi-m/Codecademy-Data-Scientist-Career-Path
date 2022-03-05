@@ -40,7 +40,7 @@ The functions created aim to manipulate the data using pandas, in order to find 
 
 In this project, I analyzed the data on median estimated values of single family homes by zip codes from the past two decades, using SQLite
 to apply the concepts I've been learning on the SQL course.
-The csv file was imported from this [link](https://drive.google.com/file/d/1Ew2rS1O_Mu5dUh59rlVw9IhCy_xrwftk/view).
+The csv file was imported from this [link](https://drive.google.com/file/d/1Ew2rS1O_Mu5dUh59rlVw9IhCy_xrwftk/view) and I used DB Browser for SQLite.
 
 The project aims to answer the following questions:
 
