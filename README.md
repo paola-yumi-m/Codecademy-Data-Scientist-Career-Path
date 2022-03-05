@@ -38,7 +38,8 @@ The functions created aim to manipulate the data using pandas, in order to find 
 
 ## [Home Value Trends Project](https://github.com/paola-yumi-m/codecademy_projects/blob/main/zip_codes.sqbpro)
 
-In this project, I analyzed the data on median estimated values of single family homes by zip codes from the past two decades, using SQLite.
+In this project, I analyzed the data on median estimated values of single family homes by zip codes from the past two decades, using SQLite
+to apply the concepts I've been learning on the SQL course.
 The csv file was imported from this [link](https://drive.google.com/file/d/1Ew2rS1O_Mu5dUh59rlVw9IhCy_xrwftk/view).
 
 The project aims to answer the following questions:
