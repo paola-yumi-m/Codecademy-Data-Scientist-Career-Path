@@ -52,3 +52,14 @@ The project aims to answer the following questions:
   - Which states have the highest/lowest average home values for the year of 2017? What about for the year of 2007? 1997?
   - What is the percent change 141 in average home values from 2007 to 2017 by state? How about from 1997 to 2017?
   - How would you describe the trend in home values for each state from 1997 to 2017? How about from 2007 to 2017? Which states would you recommend for making real estate investments?
+
+## [Life Expectancy and GDP Project](https://github.com/paola-yumi-m/codecademy_projects/blob/main/life_expectancy_and_GDP/life_expectancy_gdp.ipynb)
+
+In this project, I analysed a dataset of life expectancy and GDP values over the years for some countries. After preparing and inspecting the dataset, the project aims to answer the following questions:
+
+  - Is life expectancy greater in developed countries?
+  - Are GDP and life expectancy associated?
+  - Has life expectancy increased over the years?
+  - Has GDP increased over the years?
+  - What is the average life expectancy?
+  - What is the distribution of the life expectancy?
